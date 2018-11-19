@@ -1,6 +1,6 @@
 // Code your solution in this file!
 function returnFirstTwoDrivers() {
-
+  const
 }
 
 function returnLastTwoDrivers(){
@@ -26,4 +26,3 @@ function fareTripler(){
 function fetchSpecifiedDrivers(){
 
 }
-
