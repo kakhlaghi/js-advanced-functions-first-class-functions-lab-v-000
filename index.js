@@ -12,9 +12,13 @@ function selectingDrivers(){
 }
 
 function createFareMultiplier(){
-  
+
 }
 
 function fareDoubler(){
-  
+
+}
+
+function fareTripler(){
+
 }
