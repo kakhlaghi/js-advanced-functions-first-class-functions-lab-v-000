@@ -1,7 +1,7 @@
 // Code your solution in this file!
-const returnFirstTwoDriversfunction (someArray) {
+const returnFirstTwoDrivers = function (someArray) {
   return firstTwo = [someArray[0], someArray[1]];
-  
+
 }
 
 function returnLastTwoDrivers(){
