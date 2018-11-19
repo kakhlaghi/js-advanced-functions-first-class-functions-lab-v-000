@@ -18,11 +18,8 @@ const fareDoubler = function (){
 const fareTripler = function (){
 
 }
-
-
 }
 
 const fetchSpecifiedDrivers = (){
 
 }
-  
