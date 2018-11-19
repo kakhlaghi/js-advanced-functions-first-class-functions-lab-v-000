@@ -10,3 +10,11 @@ function returnLastTwoDrivers(){
 function selectingDrivers(){
 
 }
+
+function createFareMultiplier(){
+  
+}
+
+function fareDoubler(){
+  
+}
