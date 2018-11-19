@@ -1,10 +1,9 @@
 // Code your solution in this file!
 const returnFirstTwoDrivers = function (someArray) {
   return firstTwo = [someArray[0], someArray[1]];
-
 }
 
-function returnLastTwoDrivers(){
+const returnLastTwoDrivers function (){
 
 }
 
