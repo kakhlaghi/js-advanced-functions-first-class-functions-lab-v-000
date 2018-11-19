@@ -15,11 +15,11 @@ const fareDoubler = function (){
 
 }
 
-const fareTripler = function(){
+const fareTripler = function (){
 
 }
 
-function fetchSpecifiedDrivers(){
+const fetchSpecifiedDrivers(){
 
 }
 }
