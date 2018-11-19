@@ -11,7 +11,7 @@ selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers]
 
 function createFareMultiplier(multiBy){
 
-function fareDoubler(){
+const fareDoubler function (){
 
 }
 
