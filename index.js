@@ -1,6 +1,6 @@
 // Code your solution in this file!
 function returnFirstTwoDrivers(someArray) {
-  const firstTwo = 
+  const firstTwo = [someArray[0], someArray[1]]
 }
 
 function returnLastTwoDrivers(){
