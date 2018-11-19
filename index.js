@@ -19,7 +19,7 @@ const fareTripler = function (){
 
 }
 
-const fetchSpecifiedDrivers(){
+const fetchSpecifiedDrivers = (){
 
 }
 }
