@@ -24,6 +24,6 @@ function fareTripler(){
 }
 
 function fetchSpecifiedDrivers(){
-  
+
 }
 
