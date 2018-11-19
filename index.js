@@ -16,7 +16,7 @@ const fareDoubler = function (fare){
 }
 
 const fareTripler = function (fare){
-
+  fare*3
 }
 }
 
