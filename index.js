@@ -12,7 +12,7 @@ selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers]
 function createFareMultiplier(multiBy){
 
 const fareDoubler = function (fare){
-  return fare*2
+  return fare*multiBy
 }
 
 const fareTripler = function (fare){
