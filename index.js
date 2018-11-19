@@ -9,7 +9,7 @@ const returnLastTwoDrivers = function (someArray){
 
 selectingDrivers = [returnFirstTwoDrivers, returnLastTwoDrivers]
 
-const createFareMultiplier = function (multiBy){
+const createFareMultiplier = function (fare){
   return function (fare){
     return fare*multiBy;
   };
